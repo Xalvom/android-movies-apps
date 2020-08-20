@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032351055661",
+    "firebase_url": "https://movh-apps.firebaseio.com",
+    "project_id": "movh-apps",
+    "storage_bucket": "movh-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032351055661:android:d62cafc55b5211678e9da4",
+        "android_client_info": {
+          "package_name": "com.himman.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032351055661-8f9uk9q3fmn9b9igsuvj3v5q9kdvglgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himman.myapplication",
+            "certificate_hash": "f3e0632c4079f5a83b51084d3c476debccb9fd45"
+          }
+        },
+        {
+          "client_id": "1032351055661-215vo3qtnve7pauh2jd6jmhn9krdvq00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMe_UwNWjI2XY8euYFe2YJZVD7GKXBkqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032351055661-215vo3qtnve7pauh2jd6jmhn9krdvq00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

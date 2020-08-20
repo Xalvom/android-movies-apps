@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MOVH Apps</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="onboard_detail_one">Lebih mudah untuk mengetahui film \n yang sedang tampil</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="onboard_detail_two">Tidak khawatir ketinggalan \n update film terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="onboard_detail_three">Gunakan e-wallet untuk \n transaksi tiket nonton</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="masuk_akun_baru">Masuk Akun Baru</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email_address">Email Address</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="photo">Photo</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="welcome">Welcome, \n HimmanID</string>
+    <string name="simpan">Simpan Dan Lanjutkan</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="detail_film">One Piece is a Japanese manga series written and  illustrated by Eiichiro Oda. It has been serialized in  Shueisha\'s Weekly Shōnen Jump magazine since July 1997.  The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="beli_tiket">Beli Tiket</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

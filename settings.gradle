@@ -1,0 +1,2 @@
+rootProject.name='MOVH Apps'
+include ':app'
